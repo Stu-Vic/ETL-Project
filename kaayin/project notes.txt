@@ -1,9 +1,0 @@
-upload to 
-sql or mongodb
-
-can use csv json scraping api, etc
-massage it and put it into a database after cleaning
-
-add erd
-
-just spoke to kaushal - maybe comparing with nsw crash data would be better
