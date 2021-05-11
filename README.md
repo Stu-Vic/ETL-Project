@@ -22,8 +22,7 @@ Victorian Department of Premier and Cabinet.
 The DataVic Access Policy was endorsed by the Victorian Government in August 2012
 for implementation throughout the Victorian public service
 
-In particular we used data sets from the ‘Crash Stats’ suite of data. In particular
-the following data sets
+In particular we used data sets from the ‘Crash Stats’ suite of data. 
 
 https://discover.data.vic.gov.au/dataset/crash-stats-data-extract
 
