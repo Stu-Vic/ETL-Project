@@ -22,8 +22,8 @@ The DataVic Access Policy was endorsed by the Victorian Government in August 201
 
 In particular we used data sets from the ‘Crash Stats’ suite of data. In particular the following data sets
 https://discover.data.vic.gov.au/dataset/crash-stats-data-extract
-•	ACCIDENT
-•	ACCIDENT_LOCATION
-•	ROAD_SURFACE_CONDITION
-•	ATMOSPHERIC_COND
+
+•	ACCIDENT •	ACCIDENT_LOCATION •	ROAD_SURFACE_CONDITION •	ATMOSPHERIC_COND
+
+
 ![Monash2truck](https://user-images.githubusercontent.com/78116599/117808725-9341b300-b2a0-11eb-8547-eb2b8e54eea5.jpg)
